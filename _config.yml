@@ -6,7 +6,6 @@ logo: 'assets/images/Logo.png'
 favicon: 'assets/images/Logo.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -19,7 +18,7 @@ authors:
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: alexamarzina@gmail.com
     twitter: https://twitter.com/alexa_lou
-    description: "Alexa is a writer and editor who hails from Pittsburgh. If not writing, she can be seen hugging the nearest dog. Currently, Alexa is seeking a full-time position in the media/communications industry."
+    description: "Alexa is a writer and editor who hails from Pittsburgh. If not writing or dyeing her hair a slightly different shade of blonde, she can be seen hugging the nearest dog. Currently, Alexa is seeking a full-time position in the media/communications industry."
   
 # Plugins
 plugins:
