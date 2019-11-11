@@ -10,7 +10,7 @@ comments: false
 
 <p>Please fill out the form below if you have questions, want to pitch me, or just to strike a chat.</p>
 
-<div class="container">
+<div class="contact">
   <form action="action_page.php">
 
     <label for="name">Name</label>
