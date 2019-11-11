@@ -8,7 +8,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Have questions, want to pitch me, or just strike a chat?</p>
+<p>Please fill out the form below if you have questions, want to pitch me, or just to strike a chat.</p>
 
 <div class="container">
   <form action="action_page.php">
