@@ -12,24 +12,6 @@ comments: false
 
 <form action="http://formspree.io/alexamarzina@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
 
-
-<div class="contact">
-  <form action="action_page.php">
-
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name">
-
-    <label for="email">Email</label>
-    <input type="text" id="email" email="email">
-
-    <label for="subject">Message</label>
-    <textarea id="subject" name="subject" placeholder="Write something..." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-
-  </form>
-</div>
-
 </div>
 
 <div class="col-md-4">
