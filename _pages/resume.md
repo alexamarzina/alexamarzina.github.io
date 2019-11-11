@@ -2,7 +2,7 @@
 layout: page
 title: Resume and Potrfolio
 permalink: /resume
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
@@ -11,7 +11,6 @@ comments: true
 <p>Below is my updated resume. If you'd like any further details or have questions about my experience, please don't hesitate to contact me.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.pdf" alt="resume" /></p>
-<h4>Documentation</h4>
 
 </div>
 
@@ -22,7 +21,7 @@ comments: true
 
 <p>View my previous work below.</p>
 
-<a target="_blank" https://muckrack.com/alexa-marzina" class="btn btn-danger">Muckrack</a> <a target="_blank" href="https://pittnews.com/staff/?writer=Alexa%20Marzina" class="btn btn-warning">The Pitt News</a>
+<a target="_blank" href="https://muckrack.com/alexa-marzina" class="btn btn-danger">Muckrack</a> <a target="_blank" href="https://pittnews.com/staff/?writer=Alexa%20Marzina" class="btn btn-warning">The Pitt News</a>
 
 </div>
 </div>
