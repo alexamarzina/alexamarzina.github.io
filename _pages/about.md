@@ -2,7 +2,7 @@
 layout: page
 title: Mediumish Template for Jekyll
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
@@ -24,11 +24,12 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>About me</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/photo.jpg" /></p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<p>Alexa is a writer and editor who hails from Pittsburgh. If not writing or dyeing her hair a slightly different shade of blonde, she can be seen hugging the nearest dog. Currently, Alexa is seeking a full-time position in the media/communications industry.</p>
+
 
 </div>
 </div>
