@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume and Potrfolio
+title: Resume and Portfolio
 permalink: /resume
 comments: false
 ---
