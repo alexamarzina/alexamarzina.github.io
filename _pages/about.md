@@ -10,6 +10,9 @@ comments: false
 
 <p>Please fill out the form below if you have questions, want to pitch me, or just to strike a chat.</p>
 
+<form action="http://formspree.io/alexamarzina@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+
+
 <div class="contact">
   <form action="action_page.php">
 
