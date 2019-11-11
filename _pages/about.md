@@ -12,9 +12,9 @@ comments: false
 
 <div class="contact">
   <form action="http://formspree.io/alexamarzina@gmail.com" method="POST">
-    <label for="name">Name<input type="text" name="name"></label>
-    <label for="_replyto">Email<input type="text" name="_replyto"></label>
-    <label for="message">Write something...<input type="text" name'"message"></label>
+    <label for="name">Name<input type="text" name="name"></label><br>
+    <label for="_replyto">Email<input type="text" name="_replyto"></label><br>
+    <label for="message">Write something...<input type="text" name="message"></label><br>
    <input type="submit" value="Send">
   </form>
 </div>
