@@ -11,13 +11,13 @@ comments: false
 <p>Please fill out the form below if you have questions, want to pitch me, or just to strike a chat.</p>
 
 <form action="http://formspree.io/alexamarzina@gmail.com">
-  <input type="text" name="name">
-    <label for="name">Name</label>
-  <input type="email" name="_replyto">
-    <label for="_replyto">Email</label>
-  <textarea name="message"> </textarea>
-    <label for="message">Write something...</label>
-  <input type="submit" value="Send">
+  <label for="name">Name</label>
+    <input type="text" name="name">
+  <label for="_replyto">Email</label>
+    <input type="email" name="_replyto">
+ <label for="message">Write something...</label>
+    <textarea name="message"> </textarea>  
+ <input type="submit" value="Send">
 </form>
 
 </div>
