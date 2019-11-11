@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Contact Me
 permalink: /about
 comments: false
 ---
@@ -8,16 +8,24 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Have questions, want to pitch me, or just strike a chat?</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<div class="container">
+  <form action="action_page.php">
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name">
 
-<h4>Questions or bug reports?</h4>
+    <label for="email">Email</label>
+    <input type="text" id="email" email="email">
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+    <label for="subject">Message</label>
+    <textarea id="subject" name="subject" placeholder="Write something..." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
 
 </div>
 
