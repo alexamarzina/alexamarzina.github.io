@@ -10,7 +10,7 @@ comments: false
 
 <p>Below is my updated resume. If you'd like any further details or have questions about my experience, please don't hesitate to contact me.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.pdf" alt="resume" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.jpg" alt="resume" /></p>
 
 </div>
 
