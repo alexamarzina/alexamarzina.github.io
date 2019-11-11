@@ -11,7 +11,7 @@ comments: false
 <p>Please fill out the form below if you have questions, want to pitch me, or just to strike a chat.</p>
 
 <div class="contact">
-  <form action="http://formspree.io/alexamarzina@gmail.com" method="POST">
+  <form action="https://formspree.io/xbjjoapw" method="POST">
     <label for="name">Name<input type="text" name="name"></label><br>
     <label for="_replyto">Email<input type="text" name="_replyto"></label><br>
     <label for="message">Write something...<input type="text" name="message"></label><br>
