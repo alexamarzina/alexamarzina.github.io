@@ -8,7 +8,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Below is my updated resume. If you'd like any further details or have questions about my experience, please don't hesitate to contact me.</p>
+<p>Below is my updated resume. If you'd like any further details or have questions about my experience, please don't hesitate to <a href="mailto:alexamarzina@gmail.com">contact me.</a></p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.jpg" alt="resume" /></p>
 
