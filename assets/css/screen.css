@@ -12,12 +12,12 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #fbcbd5;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #f47185;
     text-decoration: none;
 }
 
@@ -581,7 +581,7 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #1C9963;
+    background-color: #f47185;
     border: 1px solid #1C9963;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
@@ -914,7 +914,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color: #fbcbd5;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -924,12 +924,12 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #f47185;
 }
 
 /* Add a background color and some padding around the form */
 .contact {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #eed6d6;
   padding: 20px;
 }
