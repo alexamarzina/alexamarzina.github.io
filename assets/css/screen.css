@@ -266,12 +266,12 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .form-inline .btn {
+    background-color: #fbcbd5;
     margin-left: -50px;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
 }
-
 .mediumnavigation .form-inline .btn:hover,
 .mediumnavigation .form-inline .btn:active {
     background: transparent;
