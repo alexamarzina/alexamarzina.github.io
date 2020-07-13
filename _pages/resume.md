@@ -21,7 +21,7 @@ comments: false
 
 <p>View my previous work below.</p>
 
-<a target="_blank" href="https://muckrack.com/alexa-marzina" class="btn btn-danger">Muckrack</a> <a target="_blank" href="https://pittnews.com/staff/?writer=Alexa%20Marzina" class="btn btn-warning">The Pitt News</a>
+<a target="_blank" href="https://muckrack.com/alexa-marzina" class="btn">Muckrack</a> <a target="_blank" href="https://pittnews.com/staff/?writer=Alexa%20Marzina" class="btn">The Pitt News</a>
 
 </div>
 </div>
