@@ -19,12 +19,14 @@ comments: false
   <a href="https://pittnews.com/article/144283/arts-and-entertainment/slaying-the-pittsburgh-drag-scene/" target="_blank">Slaying the Pittsburgh drag scene</a>. February 14, 2019.<br>
   <a href="https://pittnews.com/article/137139/sports/column-wwe-women-thrive-at-evolution-despite-backstage-politics/" target="_blank">WWE women thrive at ‘Evolution’ despite backstage politics</a>. October 29, 2018.<br>
   <a href="https://pittnews.com/article/136649/news/the-core-of-cider-following-the-process-from-tree-to-mug/" target="_blank">The core of cider: following the process from tree to mug</a>. October 22, 2018.<br>
-  <a href="https://pittnews.com/article/134270/sports/new-coaches-allow-pitt-fans-to-dream-big/" target="_blank">New Coaches allow Pitt fans to dream big</a>. August 27, 2018.<br>
+  <a href="https://pittnews.com/article/134270/sports/new-coaches-allow-pitt-fans-to-dream-big/" target="_blank">New Coaches allow Pitt fans to dream big</a>. August 27, 2018.
+  </p>
   
+  <p>
   <strong>Western Pennsylvania Regional Data Center</strong><br>
   <a href="http://www.wprdc.org/news/carnegie-library-wi-fi-usage-data-analysis/" target="_blank">Carnegie Library Wi-Fi Usage Data Analysis</a>. July 11, 2018.<br>
   <a href="http://www.wprdc.org/news/crash-course-in-apis-workshop-reflection/" target="_blank">Crash Course in APIs Workshop Reflection</a>. July 5, 2018.<br>
-  <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.<br>
+  <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.
   </p>
 
 </div>
