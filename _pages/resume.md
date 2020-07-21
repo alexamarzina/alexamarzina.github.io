@@ -11,7 +11,7 @@ comments: false
 <h5>Portfolio</h5>
 
 <p>
-  <strong>The Pitt News</strong>
+  <strong>The Pitt News</strong><br>
   <a href="https://pittnews.com/article/147154/news/arsenal-cider-house-serves-summer-drink-year-round/" target="_blank">Arsenal Cider House serves summer drink year-round</a>. April 11, 2019.<br>
   <a href="https://pittnews.com/article/145437/sports/the-devil-wears-blue-pitt-hopes-to-prod-a-win-against-duke/" target="_blank">The Devil wears Blue, Pitt hopes to ‘prod-a’ win against Duke</a>. March 4, 2019.<br>
   <a href="https://pittnews.com/article/145188/arts-and-entertainment/fighting-with-my-family-leaves-out-the-fight-waters-down-paige/" target="_blank">‘Fighting with My Family’ leaves out the fight, waters down Paige</a>. February, 2019.<br>
