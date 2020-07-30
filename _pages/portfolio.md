@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Resume and Portfolio
-permalink: /resume
+title: Portfolio
+permalink: /portfolio
 comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
   
-<h5>Portfolio</h5>
+<h5>Clips</h5>
 
 <p>
   <strong>The Pitt News</strong><br>
