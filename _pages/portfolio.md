@@ -28,9 +28,18 @@ comments: false
   <a href="http://www.wprdc.org/news/crash-course-in-apis-workshop-reflection/" target="_blank">Crash Course in APIs Workshop Reflection</a>. July 5, 2018.<br>
   <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.<br>
   <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw1.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse">
-    <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse"/></p>
-  
+    <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse"/>
   </p>
+  
+  <p>
+  <strong>Selected college coursework</stong><br>
+  <div>
+    <a href="https://plotly.com/~alexamarzina/3/?share_key=7hnBuCsqEhtlxLWpXsSIAZ" target="_blank" title="styled-line" style="display: block; text-align: center;"><img src="https://plotly.com/~alexamarzina/3.png?share_key=7hnBuCsqEhtlxLWpXsSIAZ" alt="styled-line" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="alexamarzina:3" sharekey-plotly="7hnBuCsqEhtlxLWpXsSIAZ" src="https://plotly.com/embed.js" async></script>
+</div>
+
+  
+  
 
 </div>
 
