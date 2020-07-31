@@ -26,7 +26,10 @@ comments: false
   <strong>Western Pennsylvania Regional Data Center</strong><br>
   <a href="http://www.wprdc.org/news/carnegie-library-wi-fi-usage-data-analysis/" target="_blank">Carnegie Library Wi-Fi Usage Data Analysis</a>. July 11, 2018.<br>
   <a href="http://www.wprdc.org/news/crash-course-in-apis-workshop-reflection/" target="_blank">Crash Course in APIs Workshop Reflection</a>. July 5, 2018.<br>
-  <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.
+  <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.<br>
+  <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw1.png" />
+  <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" />
+  
   </p>
 
 </div>
