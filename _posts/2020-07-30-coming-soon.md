@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Coming soon!"
-author: Alexa
+author: alexa
 categories: 
 image: assets/images/ypflowers.jpg
-featured: false
+featured: true
 hidden: false
 ---
 
