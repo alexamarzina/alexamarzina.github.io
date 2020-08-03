@@ -34,6 +34,7 @@ comments: false
   <br>  
   <p>
   <strong>upgrūv</strong><br>
+  <a href="{{site.baseurl}}/mayweather-mcgregor" target="_blank">Mayweather and McGregor's lame WWE impersonation</a>. July 20, 2017.<br>
   <iframe width="800" height="700" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed?link=false&modebar=false&logo=false"></iframe>
   </p>
   
