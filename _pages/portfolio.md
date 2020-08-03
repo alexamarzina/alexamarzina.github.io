@@ -28,16 +28,7 @@ comments: false
   <a href="http://www.wprdc.org/news/carnegie-library-wi-fi-usage-data-analysis/" target="_blank">Carnegie Library Wi-Fi Usage Data Analysis</a>. July 11, 2018.<br>
   <a href="http://www.wprdc.org/news/crash-course-in-apis-workshop-reflection/" target="_blank">Crash Course in APIs Workshop Reflection</a>. July 5, 2018.<br>
   <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.<br>
-  
- <p>
-  <strong>upgrūv</strong><br>
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed?autosize=true&link=false"></iframe>
-  </p>
-  
-<p>
-  <strong>Select college coursework</strong><br>
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed?autosize=true&link=false"></iframe>
-  </p>
+  </p> 
 
 </div>
 
