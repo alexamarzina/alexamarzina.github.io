@@ -30,12 +30,12 @@ comments: false
   <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.<br>
   
  <p>
-  <strong>upgrūv</strong>
+  <strong>upgrūv</strong><br>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed?autosize=true&link=false"></iframe>
   </p>
   
 <p>
-  <strong>Select college coursework</strong>
+  <strong>Select college coursework</strong><br>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed?autosize=true&link=false"></iframe>
   </p>
 
