@@ -7,7 +7,7 @@ comments: false
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
-  
+
 <h5>Clips</h5>
 
 <p>
@@ -23,20 +23,12 @@ comments: false
   <a href="https://pittnews.com/article/134270/sports/new-coaches-allow-pitt-fans-to-dream-big/" target="_blank">New Coaches allow Pitt fans to dream big</a>. August 27, 2018.
   </p>
   
-  <p>
-  <strong>Western Pennsylvania Regional Data Center</strong><br>
-  <a href="http://www.wprdc.org/news/carnegie-library-wi-fi-usage-data-analysis/" target="_blank">Carnegie Library Wi-Fi Usage Data Analysis</a>. July 11, 2018.<br>
-  <a href="http://www.wprdc.org/news/crash-course-in-apis-workshop-reflection/" target="_blank">Crash Course in APIs Workshop Reflection</a>. July 5, 2018.<br>
-  <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.<br>
-  <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw1.png" style="max-width:45%;" alt=" A digital poster advertising a 2018 event for the Allegheny County Data Warehouse">
-    <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" style="max-width:45%;" alt=" A digital poster advertising a 2018 event for the Allegheny County Data Warehouse"/>
-  </p>
-   
-  
+
 </div>
+
 <div class="col-md-4">
+
 <div class="sticky-top sticky-top-80">
-  
 <h5>Resume</h5>
   
 <p>Below is my updated resume. If you'd like any further details or have questions about my experience, please don't hesitate to <a href="{{site.baseurl}}/about" target="_blank">contact me.</a></p>
