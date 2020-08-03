@@ -31,6 +31,16 @@ comments: false
   <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw1.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse">
     <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse"/>
   </p>
+   
+  <p>
+  <strong>upgrūv</strong>
+  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed?autosize=true&link=false"></iframe>
+  </p>
+  
+  <p>
+  <strong>Select college coursework</strong><br>
+  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed?autosize=true&link=false"></iframe>
+  </p>
 
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80">
@@ -41,5 +51,7 @@ comments: false
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.jpg" alt="resume" /></p>
 
+</div>
+</div>
 </div>
 </div>
