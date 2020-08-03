@@ -28,12 +28,12 @@ comments: false
   <a href="http://www.wprdc.org/news/carnegie-library-wi-fi-usage-data-analysis/" target="_blank">Carnegie Library Wi-Fi Usage Data Analysis</a>. July 11, 2018.<br>
   <a href="http://www.wprdc.org/news/crash-course-in-apis-workshop-reflection/" target="_blank">Crash Course in APIs Workshop Reflection</a>. July 5, 2018.<br>
   <a href="http://www.wprdc.org/news/data-101-mapping/" target="_blank">Data 101: Mapping and Internship 101: Following Directions</a>. June 18, 2018.<br>
-  <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw1.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse">
-    <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse"/>
+  <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw1.png" style="max-width:45%;" alt=" A digital poster advertising a 2018 event for the Allegheny County Data Warehouse">
+    <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" style="max-width:45%;" alt=" A digital poster advertising a 2018 event for the Allegheny County Data Warehouse"/>
   </p>
    
   <p>
-  <strong>upgrūv</strong>
+  <strong>upgrūv</strong><br>
   <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed?autosize=true&link=false"></iframe>
   </p>
   
