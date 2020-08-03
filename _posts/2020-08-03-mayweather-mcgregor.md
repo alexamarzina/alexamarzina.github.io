@@ -10,7 +10,6 @@ hidden: false
 ---
 <i>This article was originally published on upgruv.com on July 20, 2017.</i>
 
-
 Ultimate fighters and boxers aren't wrestlers. So what the hell were Conor McGregor and Floyd Mayweather doing last week?
 
 What is known in wrestling as "best for business," of course.
@@ -39,4 +38,6 @@ Absurdity is the draw, but not the way McGregor and Mayweather are going about i
 
 And the way they are going, we might be a week away from learning that McGregor is Mayweather's <a href="http://www.wwe.com/shows/raw/article/jason-jordan-kurt-angle-son-reactions" target="_blank">long lost</a> out-of-wedlock son.
 
-Photo by <a href="https://unsplash.com/@attentieattentie">Attentie Attentie</a> on <a href="https://unsplash.com/">Unsplash</a>.
+<small>
+  Photo by <a href="https://unsplash.com/@attentieattentie">Attentie Attentie</a> on <a href="https://unsplash.com/">Unsplash</a>.
+</small>
