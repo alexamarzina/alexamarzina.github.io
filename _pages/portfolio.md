@@ -31,16 +31,7 @@ comments: false
   <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw1.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse">
     <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" style="max-width:45%;" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse"/>
   </p>
-  
-  <p>
-  <strong>upgrūv</strong>
-  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed"></iframe>
-  </p>
-  
-  <p>
-  <strong>Select college coursework</strong><br>
-  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed"></iframe>
-  </p>
+
   
 </div>
 
