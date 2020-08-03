@@ -28,7 +28,7 @@ comments: false
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/photo.jpg" style="border-radius:10%" /></p>
 
-<p>Alexa is a writer and editor who hails from Pittsburgh. If not writing or dyeing her hair a slightly different shade of blonde, she can be seen hugging the nearest dog. Alexa is currently seeking a full-time position in the media/journalism industry.</p>
+<p>Alexa is a writer and editor who hails from Pittsburgh. If not writing or dyeing her hair a slightly different shade of blonde, she can be seen hugging the nearest dog. Alexa is currently seeking a full-time position in the journalism industry.</p>
 
 
 </div>
