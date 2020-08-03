@@ -37,3 +37,5 @@ What McGregor is attempting to do Aug. 26 is absurd. An ultimate fighter is head
 Absurdity is the draw, but not the way McGregor and Mayweather are going about it.
 
 And the way they are going, we might be a week away from learning that McGregor is Mayweather's <a href="http://www.wwe.com/shows/raw/article/jason-jordan-kurt-angle-son-reactions" target="_blank">long lost</a> out-of-wedlock son.
+
+Photo by <a href="https://unsplash.com/@attentieattentie">Attentie Attentie</a> on <a href="https://unsplash.com/">Unsplash</a>.
