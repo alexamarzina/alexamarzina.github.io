@@ -6,8 +6,9 @@ categories:
 image: https://images.unsplash.com/photo-1552072092-7f9b8d63efcb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
 description: Then. Now. Whatever.
 featured: false
-hidden: true
+hidden: false
 ---
+<i>This article was originally published on upgruv.com on July 20, 2017.</i>
 
 Ultimate fighters and boxers aren't wrestlers. So what the hell were Conor McGregor and Floyd Mayweather doing last week?
 
@@ -34,5 +35,3 @@ What McGregor is attempting to do Aug. 26 is absurd. An ultimate fighter is head
 Absurdity is the draw, but not the way McGregor and Mayweather are going about it.
 
 And the way they are going, we might be a week away from learning that McGregor is Mayweather's <a href="http://www.wwe.com/shows/raw/article/jason-jordan-kurt-angle-son-reactions">long lost out-of-wedlock son</a>.
-
-<i>This article was originally published on upgruv.com on July 20, 2017.</i>
