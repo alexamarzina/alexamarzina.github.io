@@ -10,6 +10,7 @@ hidden: false
 ---
 <i>This article was originally published on upgruv.com on July 20, 2017.</i>
 
+
 Ultimate fighters and boxers aren't wrestlers. So what the hell were Conor McGregor and Floyd Mayweather doing last week?
 
 What is known in wrestling as "best for business," of course.
@@ -30,7 +31,7 @@ The upcoming bout between Mayweather and McGregor does not feel like a once-in-a
 
 Wrestling fans found the act all too familiar — right down to McGregor's custom outfit.
 
-Mayweather and McGregor should not need to borrow from WWE's proven playbook to sell their match. The draw should be young, cocky McGregor (arguably MMA's best <a href="http://cagepages.com/2017/02/08/anderson-silva-conor- mcgregor-best/ target="_blank"">pure striker</a>) challenging a historically brash Mayweather (a generational, <a href="http://boxrec.com/boxer/352" target="_blank">unbeaten</a> boxing champion) in a rare crossover bout.
+Mayweather and McGregor should not need to borrow from WWE's proven playbook to sell their match. The draw should be young, cocky McGregor (arguably MMA's best <a href="http://cagepages.com/2017/02/08/anderson-silva-conor-mcgregor-best/" target="_blank">pure striker</a>) challenging a historically brash Mayweather (a generational, <a href="http://boxrec.com/boxer/352" target="_blank">unbeaten</a> boxing champion) in a rare crossover bout.
 
 What McGregor is attempting to do Aug. 26 is absurd. An ultimate fighter is headed to Las Vegas to box a boxer. The Golden State Warriors might stand a better chance traveling to Pittsburgh and challenging the Penguins to a game of hockey.
 
