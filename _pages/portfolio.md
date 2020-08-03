@@ -17,6 +17,7 @@ comments: false
   <a href="https://pittnews.com/article/145188/arts-and-entertainment/fighting-with-my-family-leaves-out-the-fight-waters-down-paige/" target="_blank">‘Fighting with My Family’ leaves out the fight, waters down Paige</a>. February, 2019.<br>
   <a href="https://pittnews.com/article/144423/sports/wwe-needs-to-let-kofi-kingston-fly/" target="_blank">WWE needs to let Kofi Kingston fly</a>. February 18, 2019.<br>
   <a href="https://pittnews.com/article/144283/arts-and-entertainment/slaying-the-pittsburgh-drag-scene/" target="_blank">Slaying the Pittsburgh drag scene</a>. February 14, 2019.<br>
+  <a href="https://pittnews.com/article/139822/sports/wwe-explores-intergender-competition-in-royal-rumble/?return" target="_blank">WWE explores intergender competition in Royal Rumble</a>. January 28, 2019.<br>
   <a href="https://pittnews.com/article/137139/sports/column-wwe-women-thrive-at-evolution-despite-backstage-politics/" target="_blank">WWE women thrive at ‘Evolution’ despite backstage politics</a>. October 29, 2018.<br>
   <a href="https://pittnews.com/article/136649/news/the-core-of-cider-following-the-process-from-tree-to-mug/" target="_blank">The core of cider: following the process from tree to mug</a>. October 22, 2018.<br>
   <a href="https://pittnews.com/article/134270/sports/new-coaches-allow-pitt-fans-to-dream-big/" target="_blank">New Coaches allow Pitt fans to dream big</a>. August 27, 2018.
@@ -34,12 +35,14 @@ comments: false
   <p>
   <strong>upgrūv</strong>
   <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed"></iframe>
+  </p>
   
   <p>
-  <strong>Selected college coursework</strong><br>
+  <strong>Select college coursework</strong><br>
   <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed"></iframe>
+  </p>
   
-
+</div>
 
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80">
