@@ -33,16 +33,13 @@ comments: false
   
   <p>
   <strong>upgrūv</strong>
-  <div>
-    <a href="https://plotly.com/~alexamarzina/7/?share_key=y0tmyaPSorDaROCiJ3Kx2c" target="_blank" title="Musicals" style="display: block; text-align: center;"><img src="https://plotly.com/~alexamarzina/7.png?share_key=y0tmyaPSorDaROCiJ3Kx2c" alt="Musicals" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="alexamarzina:7" sharekey-plotly="y0tmyaPSorDaROCiJ3Kx2c" src="https://plotly.com/embed.js" async></script>
-</div>
+  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed"></iframe>
   
   <p>
   <strong>Selected college coursework</strong><br>
   <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed"></iframe>
   
-</div>
+
 
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80">
