@@ -33,14 +33,8 @@ comments: false
   
   <p>
   <strong>Selected college coursework</strong><br>
-  <div>
-    <a href="https://plotly.com/~alexamarzina/3/?share_key=7hnBuCsqEhtlxLWpXsSIAZ" target="_blank" title="styled-line" style="display: block; text-align: center;"><img src="https://plotly.com/~alexamarzina/3.png?share_key=7hnBuCsqEhtlxLWpXsSIAZ" alt="styled-line" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="alexamarzina:3" sharekey-plotly="7hnBuCsqEhtlxLWpXsSIAZ" src="https://plotly.com/embed.js" async></script>
-</div>
-
+  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed"></iframe>
   
-  
-
 </div>
 
 <div class="col-md-4">
