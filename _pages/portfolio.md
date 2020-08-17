@@ -51,7 +51,11 @@ comments: false
   
 <p>Below is my updated resume. If you'd like any further details or have questions about my experience, please don't hesitate to <a href="{{site.baseurl}}/about" target="_blank">contact me.</a></p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.jpg" alt="resume" style="border-radius:5%"/></p>
+<p class="mb-5">
+  <a href="{{site.baseurl}}/assets/images/resume.pdf" download="Marzina_Resume">
+   <img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.jpg" alt="resume" style="border-radius:5%"/>
+  </a>
+</p>
 
 
 </div>
