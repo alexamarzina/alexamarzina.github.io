@@ -32,13 +32,13 @@ comments: false
   <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dw2.png" style="max-width:45%; border-radius:5%" alt="Digital poster advertising a 2018 event for the Allegheny County Data Warehouse"/>
   </p>
   <br>  
-  <p>
+<!--  <p>
   <strong>upgrūv</strong><br>
   <a href="{{site.baseurl}}/mayweather-mcgregor" target="_blank">Mayweather and McGregor's lame WWE impersonation</a>. July 20, 2017.<br>
   <iframe width="800" height="700" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed?link=false&modebar=false&logo=false"></iframe>
   </p>
   
-  <p>
+<!--  <p>
   <strong>Select college coursework</strong><br>
   <iframe width="800" height="700" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed?link=false&modebar=false&logo=false"></iframe>
   </p>
@@ -53,7 +53,7 @@ comments: false
 
 <p class="mb-5">
   <a href="{{site.baseurl}}/assets/images/resume.pdf" download="Marzina_Resume">
-   <img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.jpg" alt="resume" style="border-radius:5%"/>
+   <img class="shadow-lg" src="{{site.baseurl}}/assets/images/oldresume.png" alt="resume" style="border-radius:5%"/>
   </a>
 </p>
 
