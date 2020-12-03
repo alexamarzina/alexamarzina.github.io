@@ -38,10 +38,10 @@ comments: false
   <iframe width="800" height="700" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/7.embed?link=false&modebar=false&logo=false"></iframe>
   </p>
   
-<!--  <p>
+<p>
   <strong>Select college coursework</strong><br>
   <iframe width="800" height="700" frameborder="0" scrolling="no" src="//plotly.com/~alexamarzina/3.embed?link=false&modebar=false&logo=false"></iframe>
-  </p>
+  </p> -->
 
 </div>
 
