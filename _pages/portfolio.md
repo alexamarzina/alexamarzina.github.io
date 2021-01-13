@@ -53,7 +53,7 @@ comments: false
 
 <p class="mb-5">
   <a href="{{site.baseurl}}/assets/images/resume.pdf" download="Marzina_Resume">
-   <img class="shadow-lg" src="{{site.baseurl}}/assets/images/oldresume.png" alt="resume" style="border-radius:5%"/>
+   <img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.png" alt="resume" style="border-radius:5%"/>
   </a>
 </p>
 
